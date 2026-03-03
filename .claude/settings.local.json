@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth status)",
+      "Bash(gh repo create uigen --public --source=. --remote=origin --push)",
+      "Bash(npm install -g vercel)"
+    ]
+  }
+}
